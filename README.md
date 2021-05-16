@@ -47,11 +47,13 @@ Gli argomenti presentati in questa terza parte saranno approfonditi in lezioni s
 
 # Installazione materiale didattico
 
+```console
+git clone https://github.com/raffmont/Tecnologie_Web-Introduzione_a_Python.git
+```
 
-git clone ...
 
 
-cd ...
+cd Tecnologie_Web-Introduzione_a_Python
 
 
 python3 -m venv venv
