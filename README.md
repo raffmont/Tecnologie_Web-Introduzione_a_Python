@@ -44,3 +44,23 @@ Sono fatti frequenti confronti con il C, di cui si assume l’audience abbia com
 * Parte terza: Il microframework Flask  (10 minuti)
 Si mostra come realizzare una API minimale con quanto appreso nella parte precedente della lezione.
 Gli argomenti presentati in questa terza parte saranno approfonditi in lezioni successive in cui Python sarà considerato strumento e non argomento di studio. 
+
+# Installazione materiale didattico
+
+
+git clone ...
+
+
+cd ...
+
+
+python3 -m venv venv
+
+
+. venv/bin/activate
+
+
+pip install --upgrade pip
+
+
+pip install -r requirements.txt
