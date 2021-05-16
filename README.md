@@ -81,7 +81,7 @@ pip install -r requirements.txt
 
 Questa semplice applicazione è l'esmepio finale mostrato a lezione.
 ```console
-cd flask-microframework
+cd 06-flask-microframework
 export FLASK_APP=flask_3.py
 export FLASK_ENV=debug
 flask run -h 0.0.0.0 -p 5000
