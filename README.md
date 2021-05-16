@@ -2,6 +2,7 @@
 
 Repository lezione "Tecnologie_Web-Introduzione_a_Python"
 
+https://docs.google.com/presentation/d/1-T7mfJTdL76qesNzaDpLZ8ScxrGUcljYKtFD2aUph14/edit?usp=sharing
 
 Lezione introduttiva a Python 3.x focalizzata sull’uso del linguaggio nell’ambito delle tecnologie web.
 
