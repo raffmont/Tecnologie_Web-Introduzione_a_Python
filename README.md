@@ -47,22 +47,32 @@ Gli argomenti presentati in questa terza parte saranno approfonditi in lezioni s
 
 # Installazione materiale didattico
 
+* Clonare il repository
 ```console
 git clone https://github.com/raffmont/Tecnologie_Web-Introduzione_a_Python.git
 ```
 
-
-
+* Cambiare la directory corrente in quella del repository
+```console
 cd Tecnologie_Web-Introduzione_a_Python
+```
 
-
+* Creae un ambiente virtuale con Python3
+```console
 python3 -m venv venv
+```
 
-
+* Attivare l'ambiente virtuale
+```console
 . venv/bin/activate
+```
 
-
+* Aggiornare pip
+```console
 pip install --upgrade pip
+```
 
-
+* Installare le dipendenze
+```console
 pip install -r requirements.txt
+```
