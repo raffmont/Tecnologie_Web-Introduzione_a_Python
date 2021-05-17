@@ -12,5 +12,5 @@ def get_italian_fiscal_code():
     sex=request.form["sex"],
     birthdate=request.form["birthdate"],
     birthplace=request.form["birthplace"])
-  result={ "fiscalCode":fiscal_code }
+  result = {"fiscalCode": fiscal_code}
   return jsonify(result)

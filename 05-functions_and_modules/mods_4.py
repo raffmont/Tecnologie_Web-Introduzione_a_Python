@@ -16,4 +16,3 @@ result = codicefiscale.encode(
 	birthplace=person["birthplace"])
 
 print(result)
-
