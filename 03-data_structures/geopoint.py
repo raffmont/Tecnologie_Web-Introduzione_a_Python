@@ -10,6 +10,6 @@ class GeoPoint:
 	def getLon(self):
 		return self.__lon
 
-pos1=GeoPoint(40.85,14.28)
+pos1 = GeoPoint(40.85, 14.28)
 print(pos1.getLat(), pos1.getLon())
 

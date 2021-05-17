@@ -1,8 +1,8 @@
-a="message a"
+a = "message a"
 
 def A():
-	print("a:",a)
-	b="message b"
+	print("a:", a)
+	b = "message b"
 
 A()
-print("b:",b)
+print("b:", b)
